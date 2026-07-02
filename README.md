@@ -1,4 +1,4 @@
-# SalesCode.ai Assignment
+
 
 ## Screen vs Real Image Classification
 
